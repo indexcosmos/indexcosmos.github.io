@@ -1,0 +1,12 @@
+# Site settings
+title: indexcosmos speaking...
+email: kdrewdesigns@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My blog provided through Github to rant and rave about the technology I work with.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://indexcosmos.github.io/" # the base hostname & protocol for your site
+twitter_username: saveabee
+github_username:  indexcosmos
+
+# Build settings
+markdown: redcarpet
