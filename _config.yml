@@ -1,5 +1,6 @@
 # Dependencies
-markdown:         redcarpet
+
+markdown:         kramdown
 highlighter:      null
 layout:           null
 
@@ -9,17 +10,18 @@ permalink:        pretty
 # Setup
 title:            indexcosmos blog
 tagline:          'Make something great!'
-description:      'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and layon theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://indexcosmos.github.io/
 
 author:
   name:           'Kimberly Drzewicki'
   url:            http://indexcosmos.github.io/
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/indexcosmos/indexcosmos.github.io
+  exclude:  [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
