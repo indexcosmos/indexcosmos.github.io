@@ -1,4 +1,5 @@
 # Dependencies
+<<<<<<< HEAD
 
 markdown:         kramdown
 highlighter:      null
@@ -7,6 +8,11 @@ layout:           null
 # Extensions
 redcarpet: 
 extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+=======
+markdown:         redcarpet
+highlighter:      null
+layout:           null
+>>>>>>> 6ea290faa22042dae9c8a31f09cc6ad7d6f2dd06
 
 # Permalinks
 permalink:        pretty
@@ -14,7 +20,11 @@ permalink:        pretty
 # Setup
 title:            indexcosmos blog
 tagline:          'Make something great!'
+<<<<<<< HEAD
 description:      'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and layon theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+=======
+description:      'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+>>>>>>> 6ea290faa22042dae9c8a31f09cc6ad7d6f2dd06
 url:              http://indexcosmos.github.io/
 
 author:
@@ -28,4 +38,7 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/indexcosmos/indexcosmos.github.io
+<<<<<<< HEAD
   exclude:  [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
+=======
+>>>>>>> 6ea290faa22042dae9c8a31f09cc6ad7d6f2dd06
