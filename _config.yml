@@ -4,6 +4,10 @@ markdown:         kramdown
 highlighter:      null
 layout:           null
 
+# Extensions
+redcarpet: 
+extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+
 # Permalinks
 permalink:        pretty
 
