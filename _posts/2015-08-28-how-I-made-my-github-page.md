@@ -37,7 +37,7 @@ Once your account is created you will need to make a [new repository.](https://g
 
 ### Step 2. Install Ruby
 
-Ruby has specific system requirements. Once you have ruby setup and running it will help build the gem dependencies you will need for Jekyll. Since I'm working with Windows 8.1 I went with [RubyInstaller](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) Ruby 2.0.0-p645 (x64) and [DevKit](http://rubyinstaller.org/downloads/) that corresponds with my installed version of Ruby. 
+Ruby has specific system requirements. Once ruby is setup and running it will help build the gem dependencies you will need for Jekyll. Since I'm working with Windows 8.1 I went with [RubyInstaller](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller) Ruby 2.0.0-p645 (x64) and [DevKit](http://rubyinstaller.org/downloads/) that corresponds with the installed version of Ruby. 
 
 Dowload RubyInstaller and check “Add Ruby executables to your PATH” box. If you'd like to read more about working with [Ruby on Windows](http://rubyonwindowsguides.github.io/book/ch02-01.html) this is a great guide which explains indepth the install process. 
 
@@ -94,4 +94,4 @@ $ cd my-site
 => Now browse to http://localhost:4000
 {% endhighlight %}
 
-At this point you should have a fully functional site build. Add themes and edit it to your hearts content. 
+At this point you should have a fully functional site build. Add themes and edit. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
