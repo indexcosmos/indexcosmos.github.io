@@ -1,27 +1,30 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      null
-layout:           null
-
+markdown:     redcarpet
+highlighter:  null
+layout:       null
 
 # Permalinks
-permalink:        pretty
+permalink:    pretty
 
 # Setup
-title:            indexcosmos blog
-tagline:          'Make something great!'
-description:      'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://indexcosmos.github.io/
-
+title:        indexcosmos blog
+tagline:      'Make something great!'
+description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:          http://indexcosmos.github.io/
+baseurl:      /
 author:
-  name:           'Kimberly Drzewicki'
-  url:            http://indexcosmos.github.io/
+  github:    https://github.com/indescosmos
+  twitter:   https://twitter.com/saveabee
+  linkedin:  https://www.linkedin.com/in/kimberlydrzewicki
+paginate:     1
 
-paginate:         1
+# Deploy settings
+safe:         false
+username:     'indescosmos'
+destination:  '_site'
 
 # Custom vars
-version:          2.0.0
-
+version:      2.0.0
 github:
-  repo:           https://github.com/indexcosmos/indexcosmos.github.io
-  exclude:  [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
+  repo:       https://github.com/indexcosmos/indexcosmos.github.io
+  exclude:    [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
