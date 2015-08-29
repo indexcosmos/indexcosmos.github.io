@@ -45,7 +45,10 @@ Once you have installed the DevKit navigate to it's config.yml file and edit for
 
 {% highlight js %}
 //# Example of my config.yml file:
+
+---
 - C:/Ruby200-x64
+
 {% endhighlight %}
 
 Now open up a command line editor and initialize the DevKit in the folder you extracted it to. Type:
