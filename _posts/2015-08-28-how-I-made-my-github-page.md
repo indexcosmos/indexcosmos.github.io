@@ -94,4 +94,4 @@ $ cd my-site
 => Now browse to http://localhost:4000
 {% endhighlight %}
 
-At this point you should have a fully functional site build. Add themes and edit. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
+At this point you should have a fully functional site build. Add specifis to your _config.yml file and edit. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
