@@ -28,7 +28,7 @@ On this post I'm going to walk through how I set up my site.
 
 - [Git Bash](https://git-scm.com/downloads)
 
-Gladly, the documentation for building with [GitHub Pages](https://pages.github.com/) and how to [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/) are available and a great resource to learn from. Read carefully about the installion requirements for each program you need to install for the system you are working on. Now to get started.
+Gladly, the documentation for building with [GitHub Pages](https://pages.github.com/) and how to [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/) are available and a great resource to learn from. Read carefully about the installion requirements for the software you need to install on your system. Now to get started.
 
 
 ### Step 1. Clone Repository
