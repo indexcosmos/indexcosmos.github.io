@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Tech Love
+title: Tech
 ---
 
-<p class="message">
-  Hey there! Check out the technology I love to work with.
-</p>
+### Technology I work with.
+
 
 <table>
   <thead>
     <tr>
       <th>Languages</th>
-      <th>IDE's & Text Editors</th>
-      <th>Programs</th>
-            <th>Operating Systems</th>
+      <th>IDE's </br> & </br> Text Editors</th>
+      <th>Graphic </br> Art </br> Programs</th>
+      <th>Operating </br> Systems</th>
     </tr>
   </thead>
 
@@ -55,4 +54,23 @@ title: Tech Love
   </tbody>
 </table>
 
-Thanks for reading!
+
+###  Communities I support
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Community</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://codeforphilly.org/">Code for Philly</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://phpwomen.org/">PHPWomen</a></td>
+    </tr>
+  </tbody>
+</table>

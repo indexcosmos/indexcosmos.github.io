@@ -64,7 +64,7 @@ ruby dk.rb install
 
 Should you receive an error, read it carefully. If you have missed something the error message may assist you in resolving the problem. 
 
-### Step 3. Install Bundler and Jekyll
+### Step 3. Install Gems
 
 Bundler and Jekyll are gems that allows you to build with Ruby. You can install gems through any command line or bash console. For installation type:
 
