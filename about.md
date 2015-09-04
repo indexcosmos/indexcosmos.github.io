@@ -5,4 +5,4 @@ title: About
 
 ### About Me
 
-This site was buildt as a place to experiment and record my code projects.
+This site was built as a place to experiment and record my code projects.
