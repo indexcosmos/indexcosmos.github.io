@@ -1,6 +1,6 @@
 # Dependencies
 markdown:     redcarpet
-highlighter:  null
+highlighter:  pygments
 layout:       null
 
 # Permalinks
