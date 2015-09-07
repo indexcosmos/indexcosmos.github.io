@@ -48,23 +48,23 @@ Dowload RubyInstaller and check “Add Ruby executables to your PATH” box. If 
 
 Once you have installed the DevKit navigate to it's config.yml file and edit for the version of Ruby you are using. 
 
-{% highlight js %}
+```
 //# Example of my config.yml file:
 
 ---
 - C:/Ruby200-x64
 
-{% endhighlight %}
+```
 
 Now open up a command line editor and initialize the DevKit in the folder you extracted it to. Type:
 
-{% highlight js %}
+```
 ruby dk.rb init
-{% endhighlight %}
+```
 Then,
-{% highlight js %}
+```
 ruby dk.rb install
-{% endhighlight %}
+```
 
 
 Should you receive an error, read it carefully. If you have missed something the error message may assist you in resolving the problem. 
@@ -73,33 +73,33 @@ Should you receive an error, read it carefully. If you have missed something the
 
 Bundler and Jekyll are gems that allows you to build with Ruby. You can install gems through any command line or bash console. For installation type:
 
-{% highlight js %}
+```
 $ gem install jekyll
-{% endhighlight %}
+```
 
 <blockquote>
 <p>Compatibility Note: Do not attempt to install Jekyll v1.4.3, though, which is known to be <a href="https://github.com/jekyll/jekyll/issues/1948">incompatible with Windows.</a></p>
 </blockquote>
 
 
-{% highlight js %}
+```
 $ gem install bundler
-{% endhighlight %}
+```
 
 Add to Gemfile configuration:
 
-{% highlight js %}
+```
 source 'https://rubygems.org'
 gem 'github-pages'
-{% endhighlight %}
+```
 
 Now to install your site build:
 
-{% highlight js %}
+```
 $ jekyll new my-site
 $ cd my-site
 /my-site $ bundle exec jekyll serve
 => Now browse to http://localhost:4000
-{% endhighlight %}
+```
 
 At this point you should have a fully functional site build. Add specifics to your _config.yml file and edit. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
