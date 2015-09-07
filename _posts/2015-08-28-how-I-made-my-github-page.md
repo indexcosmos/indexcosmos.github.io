@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I made a static blog site with GitHub Pages and Jekyll.
+title: How I made a static blog site through GitHub Pages and Jekyll .
 ---
 
 <div class="message">
@@ -32,7 +32,7 @@ On this post I'm going to walk through how I set up my site.
 Gladly, the documentation for building with [GitHub Pages](https://pages.github.com/) and how to [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/) are available and a great resource to learn from. Read carefully about the installion requirements for the software you need to install on your system. Now to get started.
 
 <blockquote>
-<p>Site Note: A <a href="https://en.wikipedia.org/wiki/Static_web_page">static web page</a></p> is a stationary site that does not render dynamic content through an application.
+<p>Site Note: A <a href="https://en.wikipedia.org/wiki/Static_web_page">static web page</a></p> is a stationary site that does not render dynamic content through a web application.
 </blockquote>
 
 
