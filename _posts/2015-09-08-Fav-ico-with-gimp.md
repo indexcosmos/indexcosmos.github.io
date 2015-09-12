@@ -13,13 +13,6 @@ In this post we'll be working with GIMP, the <a href="http://www.gnu.org/gnu/the
 
 - [Gimp](http://www.gimp.org/downloads/)
 
-- A Text Editor
-	- [Sublime Text](http://www.sublimetext.com/)
-	- [Notepad++](https://notepad-plus-plus.org/)
-	- [Brackets](http://brackets.io/)
-	- [Atom](https://atom.io/)
-	- [Vim](http://www.vim.org/)
-
 ### Step 1. Make a Favicon
 
 Start up GIMP and navigate to File > New to create a new image. Adjust the new image to 16 x 16 pixels. Below select portrait for page orientation. I am going to make my favicon transparent by clicking the Advanced Options tab and selecting Fill with: Transparency. Pressing ok will load an artboard to draw your new favicon on.
