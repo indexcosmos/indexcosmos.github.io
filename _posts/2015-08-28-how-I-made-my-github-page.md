@@ -70,7 +70,7 @@ ruby dk.rb install
 ```
 
 
-Should you receive an error, read it carefully. If you have missed a step through the installion process. The error message may assist you in debugging the problem. 
+Should you receive an error, read it carefully. If a step was missed during the installion process an error message may assist you in debugging the problem. 
 
 ### Step 3. Install Gems
 
@@ -96,7 +96,7 @@ source 'https://rubygems.org'
 gem 'github-pages'
 ```
 
-Now to install your site build:
+Install site build:
 
 ```
 $ jekyll new my-site
@@ -105,4 +105,4 @@ $ cd my-site
 => Now browse to http://localhost:4000
 ```
 
-At this point you should have a fully functional site build. Add specifics to your _config.yml file and edit. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
+At this point there should be a fully functional site build. Begin adding specifics by editing the _config.yml file. Jekyl comes with additional [plugins](http://jekyllrb.com/docs/plugins/) and [themes.](http://jekyllthemes.org/) 
