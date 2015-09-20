@@ -21,3 +21,5 @@ The favicon you make can be text or a picture that bests repersents your style o
 ### Step 2. Make a Favicon
 
 Start up GIMP and navigate to File > New to create a new image. Adjust the new image size to 16 x 16 pixels. Below, select portrait for page orientation. I am going to make my favicon transparent by selecting the Advanced Options tab and set Fill with to Transparency. Pressing ok will load an artboard to draw the new favicon on.
+
+![New Image]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/gimp_new_img_favicon.png }}/public/images/gimp_new_img_favicon.png)
