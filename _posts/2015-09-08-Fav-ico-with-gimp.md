@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make a Favicon with Gimp.
+title: Make a Favicon with GIMP.
 ---
 
 <div class="message">
@@ -25,3 +25,5 @@ Start up GIMP and navigate to File > New to create a new image. Adjust the new i
 ![GIMP New Image]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/gimp_new_img_favicon.png }}/public/images/gimp_new_img_favicon.png)
 
 ### Step 3. Save your Favicon
+
+Export the favicon with the .ico or icon file extension. 
