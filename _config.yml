@@ -13,15 +13,24 @@ description:  'A new blog powered with <a href="http://jekyllrb.com" target="_bl
 url:          http://indexcosmos.github.io/
 baseurl:      /
 author:
-  github:    https://github.com/indescosmos
+  github:    https://github.com/indexcosmos
   twitter:   https://twitter.com/saveabee
   linkedin:  https://www.linkedin.com/in/kimberlydrzewicki
 paginate:     1
 
 # Deploy settings
 safe:         false
-username:     'indescosmos'
+username:     'indexcosmos'
 destination:  '_site'
+
+# Outputting
+permalink:     date
+paginate_path: /page:num
+timezone:      America/New_York
+
+quiet:    false
+defaults: []
+
 
 # Custom vars
 version:      2.0.0
