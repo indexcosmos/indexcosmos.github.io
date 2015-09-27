@@ -3,7 +3,7 @@ layout: page
 title: Tech
 ---
 
-### Technology I work with.
+### Technology 
 
 
 <table>
@@ -55,7 +55,7 @@ title: Tech
 </table>
 
 
-###  Communities | support.
+###  Communities | Support
 
 
 <table>
