@@ -10,9 +10,9 @@ title: Tech
   <thead>
     <tr>
       <th>Languages</th>
-      <th>IDE's </br> & </br> Text Editors</th>
-      <th>Graphic </br> Art </br> Programs</th>
-      <th>Operating </br> Systems</th>
+      <th>IDE's <br /> & <br /> Text Editors</th>
+      <th>Graphic <br /> Art <br /> Programs</th>
+      <th>Operating <br /> Systems</th>
     </tr>
   </thead>
 
