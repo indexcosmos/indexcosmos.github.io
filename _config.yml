@@ -12,7 +12,7 @@ tagline:      'Make something great!'
 description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:          http://indexcosmos.github.io/
 baseurl:      /
-author:
+author:		
   github:    https://github.com/indexcosmos
   twitter:   https://twitter.com/saveabee
   linkedin:  https://www.linkedin.com/in/kimberlydrzewicki
