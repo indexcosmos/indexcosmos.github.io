@@ -40,7 +40,6 @@ title: Portfolio
 
 ![Promo Image]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.60.02%20promo%20image.jpg }}/public/images/portfolio/2012.60.02 promo image.jpg)
 
-![Promo Image]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.60.02%20promo%20image.jpg }}/public/images/portfolio/2012.60.02 promo image.jpg)
 
 ![Skull Bracelet]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.01.06%20skull%20bracelet.JPG }}/public/images/portfolio/2014.01.06 skull bracelet.JPG)
 
