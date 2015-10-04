@@ -14,11 +14,20 @@ title: Portfolio
 
 # 2015 
 
+## August
+
+![Freedom of Press]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20freedom%20of%20press.jpg }}/public/images/portfolio/2015.08.02 freedom of press.jpg)
+
+![Philadelphia Skyline]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20philly%20skyline.jpg }}/public/images/portfolio/2015.08.02 philly skyline.jpg)
+
+## July
+
+![Ben Franklin Country]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.07.17%20ben%20franklin%20country.jpg }}/public/images/portfolio/2015.07.17 ben franklin country.jpg)
+
 ## June
 
 ![Crystal Skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
 
-<img src="https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG" alt="placeholder" title="Crystal Skull">
 
 ![Disco Shoe]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20disco.jpg }}/public/images/portfolio/2015.06.03 vegas casino disco.jpg)
 
@@ -30,19 +39,27 @@ title: Portfolio
 
 ![Casinos]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20view.JPG }}/public/images/portfolio/2015.06.03 vegas casino view.JPG)
 
+## May
+
+![Starry Bench]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.05.05%20starry%20bench.png }}/public/images/portfolio/2015.05.05 starry bench.png)
+
 ## April
 
-![Cartoon Whale in Lotus Position]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.04.03%20meditating%20whale%20in%20lotus%20position.png }}/public/images/portfolio/2015.04.03 meditating whale in lotus position.png)
+![Sherbet Mother Board (Desktop Background)]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.04.15%20sherbetmobo.jpg }}/public/images/portfolio/2015.04.15 sherbetmobo.jpg)
 
 ![Compressed Stone Bead Bracelet (Finished)]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.04.10%20finished%20bracelet.JPG }}/public/images/portfolio/2015.04.10 finished bracelet.JPG)
 
-![Sherbet Mother Board (Desktop Background)]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.04.15%20sherbetmobo.jpg }}/public/images/portfolio/2015.04.15 sherbetmobo.jpg)
+![Cartoon Whale in Lotus Position]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.04.03%20meditating%20whale%20in%20lotus%20position.png }}/public/images/portfolio/2015.04.03 meditating whale in lotus position.png)
 
 ## February
 
 ![First Still Life]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20first%20still%20life.jpg }}/public/images/portfolio/2015.02.28 first still life.jpg)
 
-![OctAgon Baby Blanket]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20octogon%20baby%20blaket.jpg }}/public/images/portfolio/2015.02.28 octogon baby blaket.jpg)
+![Octagon Baby Blanket]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20octagon%20baby%20blaket.jpg }}/public/images/portfolio/2015.02.28 octagon baby blaket.jpg)
+
+![Octagon Baby Card]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20octagon%20baby%20card.jpg }}/public/images/portfolio/2015.02.28 octagon baby card.jpg)
+
+![Orchestre de Jamming]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.06%20orchestre%20de%20jamming.JPG }}/public/images/portfolio/2015.02.06 orchestre de jamming.JPG)
 
 ## January
 
@@ -52,23 +69,27 @@ title: Portfolio
 
 ## December
 
-![First Drawing, of Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.05%20first%20santa.jpg}}/public/images/portfolio/2014.12.05 first santa.jpg)
-
-![Second Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.07%20Second%20Santa.jpg }}/public/images/portfolio/2014.12.07 Second Santa.jpg)
-
-![Open Happiness Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.10%20No%20Eraser%2C%20Open%20Happiness%20Santa.jpg }}/public/images/portfolio/2014.12.10 No Eraser, Open Happiness Santa.jpg)
+![Lumberjack Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.25%20lumberjack%20santa.jpg }}/public/images/portfolio/2014.12.25 lumberjack santa.jpg)
 
 ![Piglet, Santa Hat, Beer, Shopping Cart]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.20%20pig%20in%20santa%20hat%20with%20shopping%20cart.jpg }}/public/images/portfolio/2014.12.20 pig in santa hat with shopping cart.jpg)
 
-![Lumberjack Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.25%20lumberjack%20santa.jpg }}/public/images/portfolio/2014.12.25 lumberjack santa.jpg)
+![Open Happiness Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.10%20No%20Eraser%2C%20Open%20Happiness%20Santa.jpg }}/public/images/portfolio/2014.12.10 No Eraser, Open Happiness Santa.jpg)
+
+![Second Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.07%20Second%20Santa.jpg }}/public/images/portfolio/2014.12.07 Second Santa.jpg)
+
+![First Drawing, of Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.05%20first%20santa.jpg}}/public/images/portfolio/2014.12.05 first santa.jpg)
 
 ## November
 
-![Bob Ross Follow along with crayons]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.11.16%20bob%20ross%20follow%20along%20with%20crayons.jpg }}/public/images/portfolio/2014.11.16 bob ross follow along with crayons.jpg)
+![Bob Ross follow along with Crayons]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.11.16%20bob%20ross%20follow%20along%20with%20crayons.jpg }}/public/images/portfolio/2014.11.16 bob ross follow along with crayons.jpg)
 
 ## August
 
 ![Rupert the Caterpillar]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.08.09%20caterpillar%20named%20rupert.jpg }}/public/images/portfolio/2014.08.09 caterpillar named rupert.jpg)
+
+## June
+
+![County Seat]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.06.05%20county%20seat.JPG }}/public/images/portfolio/2014.06.05 county seat.JPG)
 
 ## May
 
@@ -106,7 +127,7 @@ title: Portfolio
 
 ## April
 
-![Coffee.exe]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
+![Koffie]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
 
 ![Sloth]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.06%20solth.jpg }}/public/images/portfolio/2012.04.06 solth.jpg)
 
