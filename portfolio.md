@@ -3,8 +3,13 @@ layout: page
 title: Portfolio
 ---
 
+## Contents
 
+- [2015](#2015)
 
+  - [Crystal Skull](#crystal-skull)
+
+***
 
 
 # 2015 
@@ -12,6 +17,8 @@ title: Portfolio
 ## June
 
 ![Crystal Skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
+
+<img src="https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG" alt="placeholder" title="Crystal Skull">
 
 ![Disco Shoe]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20disco.jpg }}/public/images/portfolio/2015.06.03 vegas casino disco.jpg)
 
