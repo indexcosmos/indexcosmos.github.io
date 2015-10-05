@@ -84,10 +84,6 @@ title: Portfolio
 
 ![Sun and Moon]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.27%20sun%20and%20moon.gif }}/public/images/portfolio/2012.04.27 sun and moon.gif)
 
-## January
-
-![Skull Bracelet]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.01.06%20skull%20bracelet.JPG }}/public/images/portfolio/2014.01.06 skull bracelet.JPG)
-
 # 2012
 
 ## June
