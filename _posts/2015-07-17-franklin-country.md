@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vegas
+title: Bradford County
 ---
 
 <div class="message">
