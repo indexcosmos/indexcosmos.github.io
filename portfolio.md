@@ -3,11 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-## Contents
 
-- [2015](#2015)
-
-  - [Crystal Skull](#crystal-skull)
 
 ***
 
