@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bench Patrol
+title: Bench Detail
 ---
 
 
