@@ -74,10 +74,6 @@ title: Portfolio
 
 ![County Seat]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.06.05%20county%20seat.JPG }}/public/images/portfolio/2014.06.05 county seat.JPG)
 
-## May
-
-![Compressed Stone Bead Bracelet (Beginning)]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.05.02%20beginning%20of%20bracelet.JPG }}/public/images/portfolio/2014.05.02 beginning of bracelet.JPG)
-
 # 2012
 
 ## May
