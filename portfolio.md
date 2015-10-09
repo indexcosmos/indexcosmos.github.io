@@ -80,10 +80,6 @@ title: Portfolio
 
 # 2012
 
-## June
-
-![Forest with Mountains]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.06.11%20forest%20with%20mountains.jpg }}/public/images/portfolio/2012.06.11 forest with mountains.jpg)
-
 ## May
 
 ![Website Mockup]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.05.23%20website%20mockup.png }}/public/images/portfolio/2012.05.23 website mockup.png)
