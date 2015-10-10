@@ -60,11 +60,7 @@ title: Portfolio
 
 ## December
 
-![Lumberjack Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.25%20lumberjack%20santa.jpg }}/public/images/portfolio/2014.12.25 lumberjack santa.jpg)
-
 ![Second Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.07%20Second%20Santa.jpg }}/public/images/portfolio/2014.12.07 Second Santa.jpg)
-
-![First Drawing, of Santa]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2014.12.05%20first%20santa.jpg}}/public/images/portfolio/2014.12.05 first santa.jpg)
 
 ## August
 
