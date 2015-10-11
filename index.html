@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
 
 <div class="posts">
   {% for post in paginator.posts %}
