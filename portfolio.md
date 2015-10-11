@@ -78,8 +78,6 @@ title: Portfolio
 
 ## April
 
-![Koffie]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
-
 ![Sloth]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.06%20solth.jpg }}/public/images/portfolio/2012.04.06 solth.jpg)
 
-![Sun and Moon]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.27%20sun%20and%20moon.gif }}/public/images/portfolio/2012.04.27 sun and moon.gif)
+![Koffie]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
