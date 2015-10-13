@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How I made a static blog site with GitHub Pages and Jekyll .
+title: How I made a static blog site with GitHub Pages and Jekyll
 ---
 
 <div class="message">
-  Welcome to my blog! Check out how I made a static site with GitHub.
+  Welcome! Check out how I made a static site with GitHub.
 </div>
 
 

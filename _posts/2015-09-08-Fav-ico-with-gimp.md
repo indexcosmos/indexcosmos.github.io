@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make a Favicon with GIMP.
+title: Make a Favicon with GIMP
 ---
 
 <div class="message">
