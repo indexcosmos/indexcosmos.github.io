@@ -5,6 +5,7 @@ layout:       null
 
 # Permalinks
 permalink:    pretty
+relative_permalinks: true
 
 # Setup
 title:        indexcosmos blog
@@ -12,10 +13,10 @@ tagline:      'Make something great!'
 description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:          http://indexcosmos.github.io/
 baseurl:      /
+
 author:		
-  github:    https://github.com/indexcosmos
-  twitter:   https://twitter.com/saveabee
-  linkedin:  https://www.linkedin.com/in/kimberlydrzewicki
+  name:           'Kimberly Drzewicki'
+
 paginate:     5
 
 # Deploy settings
@@ -36,4 +37,7 @@ defaults: []
 version:      2.0.0
 github:
   repo:       https://github.com/indexcosmos/indexcosmos.github.io
+
+  twitter:   https://twitter.com/saveabee
+  linkedin:  https://www.linkedin.com/in/kimberlydrzewicki
   exclude:    [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
