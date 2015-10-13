@@ -11,26 +11,20 @@ title:        indexcosmos blog
 tagline:      'Make something great!'
 description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:          http://indexcosmos.github.io/
-baseurl:      /
-author:		'Kimberly Drzewicki'
+baseurl:      '/'
 
 paginate:     5
+
+author:
+  name: 'Kimberly Drzewicki'
+  url:  https://github.com/indexcosmos
 
 # Deploy settings
 username:     'indexcosmos'
 destination:  '_site'
 
-# Outputting
-permalink:     date
-paginate_path: /page:num
-timezone:      America/New_York
-
-quiet:    false
-defaults: []
-
-
 # Custom vars
 version:      2.0.0
 github:
   repo:       'https://github.com/indexcosmos/indexcosmos.github.io'
-  exclude:    [ 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor', 'gems']
+  
