@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-
+A work in progress!
 
 ***
 
@@ -11,8 +11,6 @@ title: Portfolio
 # 2015 
 
 ## August
-
-![Freedom of Press]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20freedom%20of%20press.jpg }}/public/images/portfolio/2015.08.02 freedom of press.jpg)
 
 ![Philadelphia Skyline]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20philly%20skyline.jpg }}/public/images/portfolio/2015.08.02 philly skyline.jpg)
 
@@ -22,7 +20,7 @@ title: Portfolio
 
 ## June
 
-![#crystal-skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
+![Crystal Skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
 
 
 ![Disco Shoe]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20disco.jpg }}/public/images/portfolio/2015.06.03 vegas casino disco.jpg)
@@ -83,6 +81,10 @@ title: Portfolio
 ![Koffie]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
 
 # 2011
+
+## September
+
+![Hurricane Irene]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2011-09-04-naked-philly-bike-ride.jpg }}/public/images/portfolio/2011-09-04-naked-philly-bike-ride.jpg)
 
 ## August
 
