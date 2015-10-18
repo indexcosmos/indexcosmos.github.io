@@ -18,6 +18,9 @@ A work in progress!
 
 ![Ben Franklin Country]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.07.17%20ben%20franklin%20country.jpg }}/public/images/portfolio/2015.07.17 ben franklin country.jpg)
 
+![Power Up]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.07.16%20power%20up.jpg }}/public/images/portfolio/2015.07.16 power up.jpg)
+
+
 ## June
 
 ![Crystal Skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
