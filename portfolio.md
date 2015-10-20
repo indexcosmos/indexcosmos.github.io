@@ -73,10 +73,6 @@ A work in progress!
 
 # 2012
 
-## May
-
-![Website Mockup]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.05.23%20website%20mockup.png }}/public/images/portfolio/2012.05.23 website mockup.png)
-
 ## April
 
 ![Sloth]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.06%20solth.jpg }}/public/images/portfolio/2012.04.06 solth.jpg)
