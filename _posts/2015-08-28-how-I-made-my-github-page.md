@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I made a static blog site with GitHub Pages and Jekyll
+title: How I made a static blog site on Windows 8.1 with GitHub Pages and Jekyll
 ---
 
 <div class="message">
@@ -70,7 +70,7 @@ ruby dk.rb install
 ```
 
 
-Should you receive an error, read it carefully. If a step was missed during the installion process an error message may assist you in debugging the problem. 
+If a step was missed during the installion process an error message may assist you in debugging the problem. 
 
 ### Step 3. Install Gems
 
