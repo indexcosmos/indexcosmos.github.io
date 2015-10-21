@@ -77,8 +77,6 @@ A work in progress!
 
 ![Sloth]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.06%20solth.jpg }}/public/images/portfolio/2012.04.06 solth.jpg)
 
-![Koffie]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2012.04.04%20coffee%20exe.png }}/public/images/portfolio/2012.04.04 coffee exe.png)
-
 # 2011
 
 ## September
