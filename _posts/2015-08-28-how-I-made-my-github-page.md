@@ -8,7 +8,7 @@ title: How I made a static blog site on Windows 8.1 with GitHub Pages and Jekyll
 </div>
 
 
-On this post I'm going to walk through how I set up my site. 
+On this post I'm going to walk through how I set up my GitHub Page. 
 
 ### Installation Requirements:
 
@@ -68,7 +68,6 @@ Then,
 ```
 ruby dk.rb install
 ```
-
 
 If a step was missed during the installion process an error message may assist you in debugging the problem. 
 
