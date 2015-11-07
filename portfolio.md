@@ -26,8 +26,6 @@ A work in progress!
 ![Crystal Skull]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20crystal%20skull.JPG }}/public/images/portfolio/2015.06.03 crystal skull.JPG)
 
 
-![Disco Shoe]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20disco.jpg }}/public/images/portfolio/2015.06.03 vegas casino disco.jpg)
-
 ![Casino Skylight]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20lighting.JPG }}/public/images/portfolio/2015.06.03 vegas casino lighting.JPG)
 
 ![Casino Statue]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.06.03%20vegas%20casino%20statue.JPG }}/public/images/portfolio/2015.06.03 vegas casino statue.JPG)
@@ -52,8 +50,6 @@ A work in progress!
 ## February
 
 ![Octagon Baby Card]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20octagon%20baby%20card.jpg }}/public/images/portfolio/2015.02.28 octagon baby card.jpg)
-
-![Octagon Baby Blanket]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.28%20octagon%20baby%20blaket.jpg }}/public/images/portfolio/2015.02.28 octagon baby blaket.jpg)
 
 ![Orchestre de Jamming]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.02.06%20orchestre%20de%20jamming.JPG }}/public/images/portfolio/2015.02.06 orchestre de jamming.JPG)
 
