@@ -1,15 +1,12 @@
-### Blog Site
+### Site
 
-Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com), the Jekyll butler.
+Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com) theme.
 
+### Stuff
 
+[Pictures of some things I make](http://indexcosmos.github.io/portfolio/).
 
-### Contents
+### Awesome
 
-- [blog](#blog)
-
-
-### Blog
-
-I'm blogging projects on [my GitHub page](http://indexcosmos.github.io/). 
-
+[Bootstrap](http://getbootstrap.com/)
+[Markdown](http://daringfireball.net/projects/markdown/)
