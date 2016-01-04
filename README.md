@@ -2,9 +2,9 @@
 
 Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com) theme.
 
-### Stuff
+### Content
 
-[Pictures and some things I make](http://indexcosmos.github.io/portfolio/).
+[Pictures and things I have made](http://indexcosmos.github.io/portfolio/).
 
 ### Awesome
 
