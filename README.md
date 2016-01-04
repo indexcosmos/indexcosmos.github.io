@@ -8,7 +8,7 @@ Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll
 
 ### Awesome
 
-##Invaluable resources and great tools:
+##Invaluable Resources and Great Tools:
 
 * [Bootstrap](http://getbootstrap.com/)
 
