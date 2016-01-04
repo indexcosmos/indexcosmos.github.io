@@ -8,6 +8,8 @@ Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll
 
 ### Awesome
 
+#Invaluable resources and great tools:
+
 * [Bootstrap](http://getbootstrap.com/)
 
 * [Markdown](http://daringfireball.net/projects/markdown/)
