@@ -16,7 +16,7 @@ In this post we'll be working with GIMP, the <a href="http://www.gnu.org/gnu/the
 
 ### Step 1. Make your Brand
 
-The favicon made can simply be letter typography or an outlined image that bests repersents the style and branding of the site.
+The favicon made can simply letter typography or an outlined image that bests repersents the style and branding of the site.
 
 ### Step 2. Make a Favicon
 
