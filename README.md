@@ -4,7 +4,7 @@ Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll
 
 Here's a link to [my portfolio](http://indexcosmos.github.io/portfolio/) of pictures and things I have made.
 
-###Check out below inspired resources and programmer related newletters.
+###Check out below inspired frameworks, languages and newletters.
 
 ##Front End:
 
