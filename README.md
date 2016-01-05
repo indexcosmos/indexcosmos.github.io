@@ -2,9 +2,9 @@
 
 Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com) theme.
 
-Here's a link to some [pictures and things I have made](http://indexcosmos.github.io/portfolio/).
+Here's a link to [my portfolio](http://indexcosmos.github.io/portfolio/) of pictures and things I have made.
 
-###Check out below invaluable resources and programmer related newletters.
+###Check out below inspired resources and programmer related newletters.
 
 ##Front End:
 
@@ -28,4 +28,4 @@ Here's a link to some [pictures and things I have made](http://indexcosmos.githu
 
 * [Pointer.io](http://www.pointer.io/) 
 
-Thanks for checking out my page! <3
+Thanks for checking out my page! 
