@@ -18,7 +18,7 @@ Here's a link to [my portfolio](http://indexcosmos.github.io/portfolio/) of pict
 
 * [Node.js](https://nodejs.org/en/) 
 
-##Newsletters I Subscribe to:
+##Newsletters:
 
 * [Android Weekly](http://androidweekly.net/)
 
