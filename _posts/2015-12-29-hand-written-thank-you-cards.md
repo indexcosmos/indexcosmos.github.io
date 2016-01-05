@@ -15,4 +15,4 @@ title: Thank You Cards
 
 ### OMG!
 
-![How Did You Know?]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/thank%20you%20deco.jpg }}/public/images/portfolio/thank you deco.jpg)
+![How Did You Know?]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/omg%20thank%20you%20ink.jpg }}/public/images/portfolio/omg thank you ink.jpg)
