@@ -4,13 +4,9 @@ Hi! Welcome to [my GitHub page](http://indexcosmos.github.io/) made with [Jekyll
 
 Here's a link to some [pictures and things I have made](http://indexcosmos.github.io/portfolio/).
 
-###Check out below invaluable resources and programmer related newletters to read.
-
-# Extra
+###Check out below invaluable resources and programmer related newletters.
 
 ##Front End:
-
-Front end resources I enjoy working with.
 
 * [Bootstrap](http://getbootstrap.com/)
 
