@@ -27,3 +27,5 @@ Here's a link to some [pictures and things I have made](http://indexcosmos.githu
 * [HTML5 Weekly](http://html5weekly.com/)
 
 * [Pointer.io](http://www.pointer.io/) 
+
+Thank you for checking out my page! <3
