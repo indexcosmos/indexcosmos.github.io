@@ -28,4 +28,4 @@ Here's a link to some [pictures and things I have made](http://indexcosmos.githu
 
 * [Pointer.io](http://www.pointer.io/) 
 
-Thank you for checking out my page! <3
+Thanks for checking out my page! <3
