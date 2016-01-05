@@ -10,6 +10,10 @@ A work in progress!
 
 # 2015 
 
+## December
+
+![Thank You]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/thank%20you%20deco.jpg }}/public/images/portfolio/thank you deco.jpg)
+
 ## August
 
 ![Philadelphia Skyline]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20philly%20skyline.jpg }}/public/images/portfolio/2015.08.02 philly skyline.jpg)
