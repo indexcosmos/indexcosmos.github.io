@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-A work in progress!
+Pictures of places I've ventured to and things I've made.
 
 ***
 
