@@ -9,7 +9,7 @@ Pictures of places I've ventured to and things I've made.
 
 # 2016
 
-## [February](http://indexcosmos.github.io/2016/01/21/books/)
+## [February](http://indexcosmos.github.io/2016/02/21/books/)
 
 ![New Books]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2016.02.21%20emerson.jpg }}/public/images/portfolio/2016.02.21 emerson.jpg)
 
