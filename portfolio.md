@@ -7,6 +7,11 @@ Pictures of places I've ventured to and things I've made.
 
 ***
 
+# 2016
+
+## [January](http://indexcosmos.github.io/2016/01/21/books/)
+
+![New Books]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/thank%20you%20deco.jpg }}/public/images/portfolio/thank you deco.jpg)
 
 # 2015 
 
