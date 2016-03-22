@@ -19,6 +19,10 @@ Pictures of places I've ventured to and things I've made.
 
 ![Thank You]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/thank%20you%20deco.jpg }}/public/images/portfolio/thank you deco.jpg)
 
+## [October](http://indexcosmos.github.io/2015/12/29/hand-written-thank-you-cards/)
+
+![Typography Break]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.10.07%20break.jpg }}/public/images/portfolio/2015.10.07 break.jpg)
+
 ## August
 
 ![Philadelphia Skyline]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/2015.08.02%20philly%20skyline.jpg }}/public/images/portfolio/2015.08.02 philly skyline.jpg)
