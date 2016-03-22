@@ -15,7 +15,7 @@ Pictures of places I've ventured to and things I've made.
 
 # 2015 
 
-## [December](http://indexcosmos.github.io/2015/12/29/hand-written-thank-you-cards/)
+## [December](http://indexcosmos.github.io/2015/10/07/break/)
 
 ![Thank You]({{ https://github.com/indexcosmos/indexcosmos.github.io/blob/master/public/images/portfolio/thank%20you%20deco.jpg }}/public/images/portfolio/thank you deco.jpg)
 
