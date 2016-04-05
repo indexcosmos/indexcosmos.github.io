@@ -12,7 +12,7 @@ In this post we'll be working with GIMP, the <a href="http://www.gnu.org/gnu/the
 ### Tutorial Requirements:
 
 - [GIMP](http://www.gimp.org/downloads/)
-<br />  </br />
+<br />  
 
 ### Step 1. Make your Brand
 
