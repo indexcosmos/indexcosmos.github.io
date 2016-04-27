@@ -1,0 +1,30 @@
+# Dependencies
+markdown:     kramdown
+highlighter:  rouge
+layout:       null
+
+# Permalinks
+permalink:    pretty
+
+# Setup
+title:        indexcosmos blog
+tagline:      'Make something great!'
+description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:          http://indexcosmos.github.io/
+baseurl:      '/'
+
+paginate:     5
+
+author:
+  name: 'Kimberly Drzewicki'
+  url:  https://github.com/indexcosmos
+
+# Deploy settings
+username:     'indexcosmos'
+destination:  '_site'
+
+# Custom vars
+version:      2.0.0
+github:
+  repo:       'https://github.com/indexcosmos/indexcosmos.github.io'
+  
