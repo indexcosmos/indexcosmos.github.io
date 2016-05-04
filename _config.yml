@@ -9,7 +9,7 @@ permalink:    pretty
 # Setup
 title:        indexcosmos blog
 tagline:      'Make something great!'
-description:  'A new blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:  'A blog powered with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:          http://indexcosmos.github.io/
 baseurl:      '/'
 
