@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-Pictures of places I've ventured to and things I've made.
+Pictures of places I've ventured to, things I've made and stuff I cherish.
 
 ***
 
